@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="buttons/final/TextFields/src"/>
+	<classpathentry kind="src" path="buttons/start/TextFields/src"/>
+	<classpathentry kind="src" path="checkboxes/final/Layout/src"/>
+	<classpathentry kind="src" path="checkboxes/start/Layout/src"/>
+	<classpathentry kind="src" path="creating/final/Layout/src"/>
+	<classpathentry kind="src" path="creating/start/Layout/src"/>
+	<classpathentry kind="src" path="layout/final/Layout/src"/>
+	<classpathentry kind="src" path="layout/start/Layout/src"/>
+	<classpathentry kind="src" path="radio/final/Layout/src"/>
+	<classpathentry kind="src" path="radio/start/Layout/src"/>
+	<classpathentry kind="src" path="textfields/final/TextFields/src"/>
+	<classpathentry kind="src" path="textfields/start/TextFields/src"/>
+	<classpathentry kind="lib" path="checkboxes/final/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="checkboxes/final/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="checkboxes/start/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="checkboxes/start/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="creating/final/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="creating/final/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="creating/start/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="creating/start/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="layout/final/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="layout/final/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="radio/final/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="radio/final/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="radio/start/Layout/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="radio/start/Layout/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="buttons/final/TextFields/bin"/>
+</classpath>
